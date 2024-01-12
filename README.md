@@ -1,5 +1,5 @@
 # robohead
-タカオさん製作の3Dモデル(SG90用スタックチャンシェル：stackchan_takao_shell_v2_resin.stl)を改変したモデルになります。感謝です。
+タカオさん製作の3Dモデル(SG90用スタックチャンシェル：stackchan_takao_shell_v2_resin.stl)を改変させていただいたモデルになります。
 
 https://github.com/mongonta0716/3DPrinter_Models
 
