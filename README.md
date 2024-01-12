@@ -1,5 +1,5 @@
 # test
-タカオさん製作の3Dモデルを改変したモデルになります。
+タカオさん製作の3Dモデル(stackchan_takao_shell_v2_resin.stl)を改変したモデルになります。
 https://github.com/mongonta0716/3DPrinter_Models
 
 変更点：サーボのチルト軸を高い位置に変更しました。
